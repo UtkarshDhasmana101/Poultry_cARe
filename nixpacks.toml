@@ -1,0 +1,2 @@
+[start]
+command = "waitress-serve --port=$PORT poultry_api:app"
